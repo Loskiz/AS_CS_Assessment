@@ -25,4 +25,4 @@ for i in range(1+hang//2):
         print(symbol,end='')
     num_of_symbol-=2    
     temp+=2
-    print('\n')
+    print('\n',end='')
