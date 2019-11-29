@@ -38,5 +38,5 @@ def add(a,b):
         z.append(k)
     z.append(myand(int(a[-1]),int(b[-1])))
     print(list(reversed(z)))
-add('11111111','11111111')
+add('11','11')
         
