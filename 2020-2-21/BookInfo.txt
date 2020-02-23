@@ -1,0 +1,23 @@
+Kevin Houston, How to Think Like a Mathematician: A Companion to Undergraduate Mathematics 
+John Vince, Foundation Mathematics for Computer Science: A Visual Approach
+Harry Lewis, Essential Discrete Mathematics for Computer Science
+Judith L. Gersting, Mathematical Structures for Computer Science
+Tom Kôrner, The Pleasures of Counting
+Kenneth Rosen, Discrete Mathematics and Its Applications
+Richard Johnson, Discrete Mathematics 
+Ronald L. Graham, Concrete Mathematics, A foundation for Computer Science
+Michael Huth, Logic in Computer Science (Core text book)
+Raymond M. Smullyan, What is the name of this Book?
+Thomas H.Cormen,  Introduction to Algorithms
+Brian Christian,  Algorithms to Live By: The Computer Science of Human Decisions
+John Zelle,  Python Programming: An Introduction to Computer Science
+Martin Erwig,  Once Upon an Algorithm: How Stories Explain Computing
+Maria Levitin,  Algorithmic Puzzles
+Jeremy Kubica, Computational Fairy Tales Jeremy Kubica
+J. Glenn Brookshear, Computer Science: An Overview
+James Gleick, The Information: A History, a Theory, a Flood
+Charles Petzold, Code: The Hidden Language of Computer Hardware and Software
+Dennis Shasha, Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists
+Simon Singh, The Code Book: The Secrets Behind Codebreaking
+
+Wudi, CSWudi, CS
